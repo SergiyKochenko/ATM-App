@@ -79,7 +79,7 @@ if __name__ == "__main__":
 
   #Create a repo of cardholders
   list_of_cardHolders = []
-  list_of_cardHolders.append(cardHolder("4532772818527395", 1234, "John", "Griffin", 1050.33))
+  list_of_cardHolders.append(cardHolder("4532772818527395", 1234, "John", "Griffin", 1050.31))
   list_of_cardHolders.append(cardHolder("4532761841325802", 4321, "Emma", "Jones", 500.22))
   list_of_cardHolders.append(cardHolder("5128381368581872", 6543, "Flavia", "Jeckson", 150.79))
   list_of_cardHolders.append(cardHolder("6011188364697109", 8765, "Kira", "Dopkins", 950.93))
