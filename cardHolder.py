@@ -6,7 +6,7 @@ class cardHolder():
     self.lastname = lastname
     self.balance = balance
 
-  ### Getter methods
+  #Getter methods
   def get_cardNum(self):
     return self.cardNum
   def get_pin(self):
@@ -18,7 +18,7 @@ class cardHolder():
   def get_balance(self):
     return self.balance
 
-  ## Setter mathods
+  #Setter mathods
   def set_cardNum(self, newVal):
     self.cardNum = newVal
   def set_pin(self, newVal):
